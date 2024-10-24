@@ -1,0 +1,27 @@
+
+body{
+    height: 100vh;
+    background: url(https://t4.ftcdn.net/jpg/08/64/81/17/240_F_864811794_M48F2ouGoxrRjs1njNUf3cNHXGIrZgCY.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    height: 5vh;
+    color:yellow;
+}
+label{
+    color: rgb(5, 235, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input:hover{
+    color:rgb(247, 120, 2);
+}
+a[href]{
+    color: aliceblue;
+}
